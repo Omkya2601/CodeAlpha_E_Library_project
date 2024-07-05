@@ -10,8 +10,8 @@ public class LibrarySystem {
         library.addUser("user2", "password2");
 
         // Adding books to the library
-        library.addBook("Java Programming", "John Doe", "1234567890");
-        library.addBook("Python Basics", "Jane Smith", "0987654321");
+        library.addBook("Java Programming", "Jadhav Omkar", "9284313575");
+        library.addBook("Python Basics", "Jays", "9987654321");
 
         Scanner scanner = new Scanner(System.in);
 
